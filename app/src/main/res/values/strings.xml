@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjercicioAndroid</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Editar">Editar Perfil</string>
+    <string name="Follow1">Followers</string>
+    <string name="Follow2">Following</string>
+    <string name="Follow3">Estrellitas</string>
+</resources>
